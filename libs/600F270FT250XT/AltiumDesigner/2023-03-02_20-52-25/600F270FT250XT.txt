@@ -1,0 +1,147 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CAP_600F0R1AT250T_ATC")
+Pad (Name "1") (Location -21, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 30, 24) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 21, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 30, 24) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -46, -22) (End -46, 22) (Layer Mechanical15) 
+Line (Width 6) (Start -46, 22) (End 46, 22) (Layer Mechanical15) 
+Line (Width 6) (Start 46, 22) (End 46, -22) (Layer Mechanical15) 
+Line (Width 6) (Start 46, -22) (End -46, -22) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-46, -22)
+Point (-46, 22)
+Point (46, 22)
+Point (46, -22)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (-51, -27)
+Point (-51, 27)
+Point (51, 27)
+Point (51, -27)
+EndPolygon
+Line (Width 1) (Start -6, -12) (End -6, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -6, 12) (End -22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, 12) (End -22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, -12) (End -6, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 6, 12) (End 6, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 6, -12) (End 22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, -12) (End 22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, 12) (End 6, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, -12) (End 22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, -12) (End 22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, 12) (End -22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, 12) (End -22, -12) (Layer Mechanical13) 
+Arc (Width 0) (Radius 0) (Location -16, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Step (Name CAP_600F0R1AT250T_ATC.step)
+EndFootprint
+
+Footprint (Name "CAP_600F0R1AT250T_ATC-M")
+Pad (Name "1") (Location -25, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 38, 26) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 25, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 38, 26) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -64, -33) (End -64, 33) (Layer Mechanical15) 
+Line (Width 6) (Start -64, 33) (End 64, 33) (Layer Mechanical15) 
+Line (Width 6) (Start 64, 33) (End 64, -33) (Layer Mechanical15) 
+Line (Width 6) (Start 64, -33) (End -64, -33) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-64, -33)
+Point (-64, 33)
+Point (64, 33)
+Point (64, -33)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (-59, -28)
+Point (-59, 28)
+Point (59, 28)
+Point (59, -28)
+EndPolygon
+Arc (Width 6) (Radius 3) (Location -77, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -6, -12) (End -6, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -6, 12) (End -22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, 12) (End -22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, -12) (End -6, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 6, 12) (End 6, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 6, -12) (End 22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, -12) (End 22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, 12) (End 6, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, -12) (End 22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, -12) (End 22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, 12) (End -22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, 12) (End -22, -12) (Layer Mechanical13) 
+Arc (Width 0) (Radius 3) (Location -20, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Step (Name CAP_600F0R1AT250T_ATC.step)
+EndFootprint
+
+Footprint (Name "CAP_600F0R1AT250T_ATC-L")
+Pad (Name "1") (Location -17, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 22, 22) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 17, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 22, 22) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -32, -15) (End -32, 15) (Layer Mechanical15) 
+Line (Width 6) (Start -32, 15) (End 32, 15) (Layer Mechanical15) 
+Line (Width 6) (Start 32, 15) (End 32, -15) (Layer Mechanical15) 
+Line (Width 6) (Start 32, -15) (End -32, -15) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-32, -15)
+Point (-32, 15)
+Point (32, 15)
+Point (32, -15)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (-43, -26)
+Point (-43, 26)
+Point (43, 26)
+Point (43, -26)
+EndPolygon
+Arc (Width 6) (Radius 3) (Location -61, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -6, -12) (End -6, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -6, 12) (End -22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, 12) (End -22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, -12) (End -6, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 6, 12) (End 6, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 6, -12) (End 22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, -12) (End 22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, 12) (End 6, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, -12) (End 22, -12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, -12) (End 22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start 22, 12) (End -22, 12) (Layer Mechanical13) 
+Line (Width 1) (Start -22, 12) (End -22, -12) (Layer Mechanical13) 
+Arc (Width 0) (Radius 3) (Location -12, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Step (Name CAP_600F0R1AT250T_ATC.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "600F270FT250XT") (PartCount 1) (DesPrefix "C?")
+Pin (Location 200, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Hidden "2") (PinSwap 1) (PartSwap 1) (PinSeq 2) (Part 1)
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Hidden "1") (PinSwap 1) (PartSwap 1) (PinSeq 1) (Part 1)
+Line (Width 8) (Start 137, -75) (End 137, 75) (Part 1)
+Line (Width 8) (Start 162, -75) (End 162, 75) (Part 1)
+Line (Width 8) (Start 162, 0) (End 200, 0) (Part 1)
+Line (Width 8) (Start 100, 0) (End 137, 0) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2023 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "American Technical Ceramics") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "600F270FT250XT") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_1") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "1284-1898-2-ND") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_2") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "1284-1898-1-ND") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_3") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "1284-1898-6-ND") (Part 1)
+Parameter (Name "RefDes") (Location 150, 150) (Height 137) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 150, -300) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "600F270FT250XT") (Part 1)
+Footprint (Name "CAP_600F0R1AT250T_ATC")
+EndComponent
+EndComponents

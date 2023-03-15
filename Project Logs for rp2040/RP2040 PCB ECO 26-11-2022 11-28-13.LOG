@@ -1,0 +1,67 @@
+Added Component: Designator=U3(RP2040)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SC0914(13)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.00000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "117672"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2648-SC0914(13)CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-1
+Added Pin To Net: NetName=GPIO0 Pin=U3-2
+Added Pin To Net: NetName=GPIO1 Pin=U3-3
+Added Pin To Net: NetName=GPIO2 Pin=U3-4
+Added Pin To Net: NetName=GPIO3 Pin=U3-5
+Added Pin To Net: NetName=GPIO4 Pin=U3-6
+Added Pin To Net: NetName=GPIO5 Pin=U3-7
+Added Pin To Net: NetName=GPIO6 Pin=U3-8
+Added Pin To Net: NetName=GPIO7 Pin=U3-9
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-10
+Added Pin To Net: NetName=GPIO8 Pin=U3-11
+Added Pin To Net: NetName=GPIO9 Pin=U3-12
+Added Pin To Net: NetName=GPIO10 Pin=U3-13
+Added Pin To Net: NetName=GPIO11 Pin=U3-14
+Added Pin To Net: NetName=GPIO12 Pin=U3-15
+Added Pin To Net: NetName=GPIO13 Pin=U3-16
+Added Pin To Net: NetName=GPIO14 Pin=U3-17
+Added Pin To Net: NetName=GPIO15 Pin=U3-18
+Added Pin To Net: NetName=TESTEN Pin=U3-19
+Added Pin To Net: NetName=XIN Pin=U3-20
+Added Pin To Net: NetName=XOUT Pin=U3-21
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-22
+Added Pin To Net: NetName=DVDD Pin=U3-23
+Added Pin To Net: NetName=SWCLK Pin=U3-24
+Added Pin To Net: NetName=SWDIO Pin=U3-25
+Added Pin To Net: NetName=RUN Pin=U3-26
+Added Pin To Net: NetName=GPIO16 Pin=U3-27
+Added Pin To Net: NetName=GPIO17 Pin=U3-28
+Added Pin To Net: NetName=GPIO18 Pin=U3-29
+Added Pin To Net: NetName=GPIO19 Pin=U3-30
+Added Pin To Net: NetName=GPIO20 Pin=U3-31
+Added Pin To Net: NetName=GPIO21 Pin=U3-32
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-33
+Added Pin To Net: NetName=GPIO22 Pin=U3-34
+Added Pin To Net: NetName=GPIO23 Pin=U3-35
+Added Pin To Net: NetName=GPIO24 Pin=U3-36
+Added Pin To Net: NetName=GPIO25 Pin=U3-37
+Added Pin To Net: NetName=GPIO26 Pin=U3-38
+Added Pin To Net: NetName=GPIO27 Pin=U3-39
+Added Pin To Net: NetName=GPIO28 Pin=U3-40
+Added Pin To Net: NetName=GPIO29 Pin=U3-41
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-42
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-43
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-44
+Added Pin To Net: NetName=DVDD Pin=U3-45
+Added Pin To Net: NetName=NetR4_1 Pin=U3-46
+Added Pin To Net: NetName=NetR3_1 Pin=U3-47
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-48
+Added Pin To Net: NetName=ADC_AVDD Pin=U3-49
+Added Pin To Net: NetName=DVDD Pin=U3-50
+Added Pin To Net: NetName=QSPI_SD3 Pin=U3-51
+Added Pin To Net: NetName=QSPI_SCLK Pin=U3-52
+Added Pin To Net: NetName=QSPI_SD0 Pin=U3-53
+Added Pin To Net: NetName=QSPI_SD2 Pin=U3-54
+Added Pin To Net: NetName=QSPI_SD1 Pin=U3-55
+Added Pin To Net: NetName=QSPI_SS_N Pin=U3-56
+Added Pin To Net: NetName=TESTEN Pin=U3-57
+Added Member To Class: ClassName=RP2040 Member=Component U3 RP2040
