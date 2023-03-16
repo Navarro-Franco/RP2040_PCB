@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+C:\Github\RP2040_PCB\Project Outputs for rp2040\Pick Place\Pick Place for RP2040.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/03/23
+Time:       08:43
+Revision:   1d13c693b6353f6f09acb0fcf8e27e103a558d2c
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U2","AZ1117IH-3.3TRG1","TopLayer","FP-SOT223-IPC_B","36.4490mm","45.4660mm","90","IC REG LINEAR 3.3V 1A SOT223"
+"Y1","ABLS-12.000MHz-20-B-3-H-T","TopLayer","XTAL_ABLS-12.000MHz-20-B-3-H-T","24.4600mm","13.5890mm","180","Crystal 12MHz ±25ppm (Tol) ±35ppm (Stability) 20pF FUND 50Ohm 2-Pin HC-49/US SMD T/R"
+"U3","RP2040","TopLayer","RP2040","24.6540mm","29.5280mm","0","ARM® Cortex®-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)"
+"U1","W25Q128JVSIQ","TopLayer","W25Q128JVSIQ","16.9440mm","38.9530mm","0","NOR Flash Serial (SPI, Dual SPI, Quad SPI) 3.3V 128M-bit 16M x 8 6ns 8-Pin SOIC Tube"
+"SW2","PTS526SK15SMTR2LFS","TopLayer","FP-PTS526SK15SMTR2LFS-MFG","37.1475mm","3.2385mm","0","TACT 5.2 X 5.2, 1.5 MM H, 260GF,"
+"SW1","PTS526SK15SMTR2LFS","TopLayer","FP-PTS526SK15SMTR2LFS-MFG","15.2400mm","46.3550mm","180","TACT 5.2 X 5.2, 1.5 MM H, 260GF,"
+"R5","RC0805FR-07470RL","TopLayer","RESC2013X60X35LL10T20","33.0200mm","29.4640mm","0","Chip Resistor, 470 Ohm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+"R4","RK73H2ATTD27R4F","TopLayer","RESC2013X60X30NL20T20","26.6700mm","38.9530mm","270","Res Thick Film 0805 27.4 Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"
+"R3","RK73H2ATTD27R4F","TopLayer","RESC2013X60X30NL20T20","24.0442mm","38.9530mm","270","Res Thick Film 0805 27.4 Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"
+"R2","RC0805JR-131KL","TopLayer","RESC2013X60X35ML10T20","26.2507mm","18.3310mm","270",""
+"R1","RC0805JR-131KL","TopLayer","RESC2013X60X35ML10T20","9.7790mm","46.2440mm","90",""
+"J4","61303621121","TopLayer","61303621121","46.6090mm","26.2890mm","270","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Dual Row, 36 pins"
+"J3","61303621121","TopLayer","61303621121","3.4290mm","26.2890mm","270","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Dual Row, 36 pins"
+"J2","105017-0001","TopLayer","USB-MICRO-B_V","24.6540mm","47.1640mm","180","Micro-USB B Receptacle, Right Angle, Bottom Mount, Surface Mount, with Solder Tabs, -30 to 85 degC, 5-Pin USB, RoHS, Tape and Reel"
+"J1","22-29-2031","TopLayer","FP-22-29-2031-MFG","25.1460mm","3.5560mm","0","CONN HEADER VERT 3POS 2.54MM"
+"D1","APTR3216SECK","TopLayer","FP-APTR3216SECK-MFG","38.1220mm","29.4640mm","180","LED ORANGE CLEAR CHIP SMD"
+"C17","GRM21BR61C106KE15K","TopLayer","FP-GRM21B-0_1-IPC_A","18.6261mm","4.9530mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"
+"C16","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","13.8430mm","26.5542mm","180","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C15","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","15.5208mm","4.9530mm","270","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C14","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","38.8622mm","36.9938mm","90","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C13","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","35.7299mm","36.9938mm","90","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C12","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","13.8430mm","29.6326mm","180","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C11","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","13.8430mm","23.3977mm","180","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C10","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","32.6085mm","36.9938mm","90","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C9","CL21B105KOFNNNE","TopLayer","FP-CL21-IPC_A","29.5910mm","36.9938mm","270","CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C8","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","33.2740mm","18.2880mm","0","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C7","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_A","35.0520mm","14.0970mm","0","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C6","CL21B105KOFNNNE","TopLayer","FP-CL21-IPC_A","30.2260mm","21.8440mm","180","CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C5","CL21C270JCANNNC","TopLayer","CAPC2012X140N","24.3840mm","9.7790mm","180","CL21 Series 27 pF 100 V ±5 % Tolerance C0G SMT Multilayer Ceramic Capacitor"
+"C4","GRM21BR61C106KE15K","TopLayer","FP-GRM21B-0_1-IPC_A","41.9100mm","45.8470mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"
+"C3","GRM21BR61C106KE15K","TopLayer","FP-GRM21B-0_1-IPC_A","30.6229mm","47.1640mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X5R, 15%, 10%, 16V"
+"C2","CL21B104KBCNNNC","TopLayer","FP-CL21-IPC_C","12.4900mm","4.9530mm","270","CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C1","CL21C270JCANNNC","TopLayer","CAPC2012X140N","22.8600mm","19.4310mm","180","CL21 Series 27 pF 100 V ±5 % Tolerance C0G SMT Multilayer Ceramic Capacitor"

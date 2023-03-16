@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Github\RP2040_PCB\PCB\RP2040.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rp2040-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rp2040-slotholes.txt|DrillLayers=gtl,gbl
